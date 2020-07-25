@@ -11,3 +11,5 @@ The files are all stored in HTML links that the user can click, and the file beg
 
 Rather than click several hundred links manually, the python script clicks the links sequentially. 
 
+
+
