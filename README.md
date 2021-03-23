@@ -13,3 +13,8 @@ Rather than click several hundred links manually, the python script clicks the l
 
 
 
+Click to see the script in action. 
+
+
+https://youtu.be/C4USbGuLjeg
+
